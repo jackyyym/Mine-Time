@@ -1,0 +1,17 @@
+﻿shader script:
+https://answers.unity.com/questions/605905/dynamic-offset-tiling-for-spriterenderer.html
+
+screen shake:
+https://assetstore.unity.com/packages/tools/camera/ez-camera-shake-33148
+
+sound effects:
+https://freesound.org/people/kingsrow/sounds/194688/
+https://freesound.org/people/jorickhoofd/sounds/160045/
+https://freesound.org/people/Leszek_Szary/sounds/146718/
+
+music:
+http://freemusicarchive.org/music/sawsquarenoise/OverHeated_Alfa_02/Field_Force
+https://freesound.org/people/InspectorJ/sounds/398980/
+
+bg texture:
+https://assetstore.unity.com/packages/2d/textures-materials/floors/tileable-hand-painted-ground-texture-pack-2-62018
